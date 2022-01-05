@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8e422f67-6753-43fa-af6f-df3357558a3e": {
+      "ProjectGuid": "8e422f67-6753-43fa-af6f-df3357558a3e",
+      "DisplayName": "Calculadora_Worker",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    },
+    "b8b48e60-1e99-4bd8-81cb-ab4ef8fef013": {
+      "ProjectGuid": "b8b48e60-1e99-4bd8-81cb-ab4ef8fef013",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

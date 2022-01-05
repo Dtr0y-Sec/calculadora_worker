@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Calculadora_Worker": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
